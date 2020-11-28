@@ -1,0 +1,30 @@
+body {
+    background-color: #E1A3FE;
+}
+
+.navbar{
+	background-color: #8888D3;
+}
+
+.navbar-brand{
+	margin-left: 600px; 
+	margin-top: -27px;
+}
+
+.table {
+   	background-color: #F2C0C0;
+	margin-left: 300px;
+ 	width: 700px;
+}
+
+.card my-5 {
+	width: 15rem;
+}
+
+.card my-1 {
+	width: 15rem;
+}
+
+.pagination {
+	margin-left: 118px;
+}
